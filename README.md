@@ -4,4 +4,4 @@
 <a><img src="art/art1.gif" width="60%"/></a>
 <a><img src="art/art2.gif" width="60%"/></a>
 
-####其他 代码中都有勒  自己看吧注意用单例管理的 切记在onresume中调用attach ~~~
+#### 其他 代码中都有勒  自己看吧注意用单例管理的 切记在onresume中调用attach ~~~
